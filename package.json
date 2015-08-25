@@ -1,0 +1,42 @@
+{
+  "name": "hex-rgb-cli",
+  "version": "1.0.0",
+  "description": "Converts hex to rgb cli",
+  "license": "MIT",
+  "repository": "danielhusar/hex-rgb-cli",
+  "author": {
+    "name": "Daniel Husar",
+    "email": "dano.husar@gmail.com",
+    "url": "danielhusar.sk"
+  },
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && mocha"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "hex",
+    "rgb",
+    "cli"
+  ],
+  "dependencies": {
+    "cliparoo": "^1.0.0",
+    "hex-rgb": "^1.0.0",
+    "meow": "^3.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "xo": "^0.7.1"
+  },
+  "xo": {
+    "envs": [
+      "node",
+      "mocha"
+    ]
+  }
+}
