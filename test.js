@@ -1,7 +1,7 @@
 'use strict';
 var assert = require('assert');
 var spawn = require('child_process').spawn;
-var output;
+var output = '';
 var cli;
 
 it('should print rgb from hex', function (cb) {
