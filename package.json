@@ -1,6 +1,6 @@
 {
   "name": "hex-rgb-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts hex to rgb cli",
   "license": "MIT",
   "repository": "danielhusar/hex-rgb-cli",
