@@ -1,6 +1,6 @@
 # hex-rgb-cli [![Build Status](https://travis-ci.org/danielhusar/hex-rgb-cli.svg?branch=master)](https://travis-ci.org/danielhusar/hex-rgb-cli)
 
-> My tiptop module
+> Converts hex to rgb in command line
 
 
 ## Install
