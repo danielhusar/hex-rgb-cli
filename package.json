@@ -9,7 +9,9 @@
     "email": "dano.husar@gmail.com",
     "url": "danielhusar.sk"
   },
-  "bin": "cli.js",
+  "bin": {
+    "rgb": "cli.js"
+  },
   "engines": {
     "node": ">=0.10.0"
   },
