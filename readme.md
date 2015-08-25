@@ -1,6 +1,6 @@
 # hex-rgb-cli [![Build Status](https://travis-ci.org/danielhusar/hex-rgb-cli.svg?branch=master)](https://travis-ci.org/danielhusar/hex-rgb-cli)
 
-> Converts hex to rgb in command line
+> Converts hex to rgb in command line and copy the output into clipboard
 
 
 ## Install

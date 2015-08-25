@@ -1,7 +1,7 @@
 {
   "name": "hex-rgb-cli",
-  "version": "1.0.0",
-  "description": "Converts hex to rgb cli",
+  "version": "1.0.1",
+  "description": "Converts hex to rgb in command line and copy the output into clipboard",
   "license": "MIT",
   "repository": "danielhusar/hex-rgb-cli",
   "author": {
